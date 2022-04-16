@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TensorFlowLiteExample</string>
+    <string name="load_image">Load Image</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="output_label">Output</string>
+    <string name="result_label">Result</string>
+    <string name="label_search_google">Click here to search result in Google</string>
 </resources>
